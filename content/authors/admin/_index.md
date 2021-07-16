@@ -57,12 +57,29 @@ highlight_name: false
 Tan Jingwen is studying in the Department of trade, School of economics, Henan University, research interests include Micrometric, Machine Learning and Causal Inference.
 
 Working paper:
+
 [1] "Research on the Subjective Intention of Floating Population from the Perspective of Property Rights:Based on the 2017 Floating Population Dynamics Monitoring Survey"(with Shixi Kang) June 2021,SSCI External audit.
+
 [2] “Air Quality and Resident Willingness of Floating Population: An Empirical Analysis from the Perspective of Urban and Rural Dual Economy” (with Shixi Kang) July 2021,SSCI External Audit.
+
 [3]"Study on floating population's willingness to settle down and social integration——Empirical analysis based on disordered multi-classification logistic and PSM model."June 2021，SSCI External audit.
+
 [4]"Research on the investment intention of the main body of live e-commerce mode under the platform Incentive-Based on the perspective of evolutionary game simulation".June 2021，SCI External audit.
 
+Publication:
 
-My research interests include Micrometric, Machine Learning and Causal Inference
+Ruobing Qin, Jingwen Tan* (2021) Study on Mediating Effects Under Actions of Households' Online Shopping Influence Factors and Cash-free Payment. E3S Web of Conferences.
+
+Jingwen Tan (2020) Empirical analysis on market prospect of video platform’s PVOD. The Fifth International Conference on Economic and Business Management. 
+
+Jingwen Tan*,Qingyuan Xu,Tianjiao Li (2020) An Empirical Analysis of Scented Tea Market Based on Theory of Consumer Behavior. 8th IEESASM .
+
+Award
+
+2019,The third competition of tax policy debate in Henan Province，Champion
+
+2020,National Undergraduate statistical modeling competition,Third Prize
+
+2020,National College Students Science and technology sharing service competition,Third Prize
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
