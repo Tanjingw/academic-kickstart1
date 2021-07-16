@@ -48,13 +48,13 @@ Jingwen Tan is studying in the School of economics, Henan University,research in
 
 Working paper:
 
-[1] "Research on the Subjective Intention of Floating Population from the Perspective of Property Rights:Based on the 2017 Floating Population Dynamics Monitoring Survey"(with Shixi Kang) June 2021,SSCI External audit.
+[1] "Research on the Subjective Intention of Floating Population from the Perspective of Property Rights:Based on the 2017 Floating Population Dynamics Monitoring Survey"(with Shixi Kang) June 2021,SSCI under review.
 
-[2] “Air Quality and Resident Willingness of Floating Population: An Empirical Analysis from the Perspective of Urban and Rural Dual Economy” (with Shixi Kang) July 2021,SSCI External Audit.
+[2] “Air Quality and Resident Willingness of Floating Population: An Empirical Analysis from the Perspective of Urban and Rural Dual Economy” (with Shixi Kang) July 2021,SSCI under review.
 
-[3]"Study on floating population's willingness to settle down and social integration——Empirical analysis based on disordered multi-classification logistic and PSM model."June 2021，SSCI External audit.
+[3]"Study on floating population's willingness to settle down and social integration——Empirical analysis based on disordered multi-classification logistic and PSM model."June 2021，SSCI under review.
 
-[4]"Research on the investment intention of the main body of live e-commerce mode under the platform Incentive-Based on the perspective of evolutionary game simulation".June 2021，SCI External audit.
+[4]"Research on the investment intention of the main body of live e-commerce mode under the platform Incentive-Based on the perspective of evolutionary game simulation".June 2021，SCI under review.
 
 Publication:
 
