@@ -47,7 +47,7 @@ email: ""
 highlight_name: false
 ---
 
-Tan Jingwen is studying in the Department of trade, School of economics, Henan University, research interests include Micrometric, Machine Learning and Causal Inference.
+Jingwen Tan is studying in the School of economics, Henan University,research interests include Micrometric, Machine Learning and Causal Inference.
 
 Working paper:
 
@@ -68,7 +68,7 @@ Publication:
 [3]Jingwen Tan*,Qingyuan Xu,Tianjiao Li (2020) An Empirical Analysis of Scented Tea Market Based on Theory of Consumer Behavior. 8th IEESASM .
 
 
-Award
+Award:
 
 2019,The third competition of tax policy debate in Henan Province，Champion
 
