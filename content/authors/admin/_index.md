@@ -54,7 +54,14 @@ email: ""
 highlight_name: false
 ---
 
-My research interests include Micrometric, Machine Learning and Causal Inference
+Tan Jingwen is studying in the Department of trade, School of economics, Henan University, research interests include Micrometric, Machine Learning and Causal Inference.
+
+Working paper:
+[1] "Research on the Subjective Intention of Floating Population from the Perspective of Property Rights:Based on the 2017 Floating Population Dynamics Monitoring Survey"(with Shixi Kang) June 2021,SSCI External audit.
+[2] “Air Quality and Resident Willingness of Floating Population: An Empirical Analysis from the Perspective of Urban and Rural Dual Economy” (with Shixi Kang) July 2021,SSCI External Audit.
+[3]"Study on floating population's willingness to settle down and social integration——Empirical analysis based on disordered multi-classification logistic and PSM model."June 2021，SSCI External audit.
+[4]"Research on the investment intention of the main body of live e-commerce mode under the platform Incentive-Based on the perspective of evolutionary game simulation".June 2021，SCI External audit.
+
 
 My research interests include Micrometric, Machine Learning and Causal Inference
 
