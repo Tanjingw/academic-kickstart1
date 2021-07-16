@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jingwen Tan
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,8 +18,8 @@ bio: My research interests include Micrometric, Machine Learning and Causal Infe
 
 # Interests to show in About widget
 interests:
-- 
-- 
+- Machine Learning
+- Micrometric
 
 # Education to show in About widget
 education:
