@@ -24,10 +24,6 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Stata
-- description: 90%
-  icon: camera-retro
-  icon_pack: fas
-  name: Matlab
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
