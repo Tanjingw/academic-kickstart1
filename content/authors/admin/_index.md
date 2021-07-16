@@ -24,9 +24,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: International Economy and Trading
+    institution: Henan University
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -68,11 +68,12 @@ Working paper:
 
 Publication:
 
-Ruobing Qin, Jingwen Tan* (2021) Study on Mediating Effects Under Actions of Households' Online Shopping Influence Factors and Cash-free Payment. E3S Web of Conferences.
+[1]Ruobing Qin, Jingwen Tan* (2021) Study on Mediating Effects Under Actions of Households' Online Shopping Influence Factors and Cash-free Payment. E3S Web of Conferences.
 
-Jingwen Tan (2020) Empirical analysis on market prospect of video platform’s PVOD. The Fifth International Conference on Economic and Business Management. 
+[2]Jingwen Tan (2020) Empirical analysis on market prospect of video platform’s PVOD. The Fifth International Conference on Economic and Business Management. 
 
-Jingwen Tan*,Qingyuan Xu,Tianjiao Li (2020) An Empirical Analysis of Scented Tea Market Based on Theory of Consumer Behavior. 8th IEESASM .
+[3]Jingwen Tan*,Qingyuan Xu,Tianjiao Li (2020) An Empirical Analysis of Scented Tea Market Based on Theory of Consumer Behavior. 8th IEESASM .
+
 
 Award
 
