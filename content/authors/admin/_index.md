@@ -52,9 +52,9 @@ Working paper:
 
 [2] “Air Quality and Resident Willingness of Floating Population: An Empirical Analysis from the Perspective of Urban and Rural Dual Economy” (with Shixi Kang) July 2021,SSCI under review.
 
-[3]"Study on floating population's willingness to settle down and social integration——Empirical analysis based on disordered multi-classification logistic and PSM model."June 2021，SSCI under review.
+[3]"Study on floating population's willingness to settle down and social integration——Empirical analysis based on disordered multi-classification logistic and PSM model."May 2021，SSCI under review.
 
-[4]"Research on the investment intention of the main body of live e-commerce mode under the platform Incentive-Based on the perspective of evolutionary game simulation".June 2021，SCI under review.
+[4]"Research on the investment intention of the main body of live e-commerce mode under the platform Incentive-Based on the perspective of evolutionary game simulation".April 2021，SCI under review.
 
 Publication:
 
