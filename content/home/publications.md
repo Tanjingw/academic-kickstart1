@@ -23,10 +23,10 @@ content:
   order: desc
   # Filter on criteria
   filters:
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
+    tag: 'www'
+    category: 'ww'
+    publication_type: 'wwwwwww'
+    author: 'jingwen'
     exclude_featured: true
 design:
   # Choose a view for the listings:
