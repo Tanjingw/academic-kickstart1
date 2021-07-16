@@ -18,9 +18,9 @@ bio: My research interests include Micrometric, Machine Learning and Causal Infe
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- 
+- 
+- 
 
 # Education to show in About widget
 education:
