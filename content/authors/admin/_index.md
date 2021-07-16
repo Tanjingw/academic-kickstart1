@@ -40,9 +40,6 @@ social:
   icon_pack: fas
   link: https://scholar.google.com.hk/citations?user=6kJUgLsAAAAJ&hl=en
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
