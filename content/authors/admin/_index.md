@@ -59,7 +59,7 @@ Jingwen Tan is studying in the School of economics, Henan University.Research in
 
 **Publication**
 
-[1]Ruobing Qin,<u>Jingwen Tan</u>* (2021) Study on Mediating Effects Under Actions of Households' Online Shopping Influence Factors and Cash-free Payment. _E3S Web of Conferences_
+[1]Ruobing Qin,<u>Jingwen Tan</u>* (2021) Study on Mediating Effects Under Actions of Households' Online Shopping Influence Factors and Cash-free Payment.  _E3S Web of Conferences_
 
 [2]<u>Jingwen Tan</u> (2020) Empirical analysis on market prospect of video platform’s PVOD. *The Fifth International Conference on Economic and Business Management*
 
