@@ -45,7 +45,7 @@ social:
 highlight_name: false
 ---
 
-Jingwen Tan is studying in the School of economics, Henan University.Research interests include Micrometric, Machine Learning and Causal Inference.
+Jingwen Tan is studying in the School of economics, Henan University.Research interests include <u>Policy Evaluation</u> and <u>Causal Inference</u>.Often use <u>Machine Learning</u>, <u>Spatial Metrology</u>, <u>Instrumental Variables</u> and other methods for empirical analysis. At this stage, the main research is on the economic issues related to the social integration of China's migrant population and infrastructure construction.
 
 **Working paper**
 
@@ -68,9 +68,9 @@ Jingwen Tan is studying in the School of economics, Henan University.Research in
 
 **Award**
 
-2020,National College Student Statistical Modeling Contest,Third Prize
+2020,National Collegiate Statistical Modeling Contest,Third Prize
 
-2020,National University Student Science and Technology Sharing Service Innovation Competition,Third Prize
+2020,National Collegiate Science and Technology Sharing Service Innovation Contest,Third Prize
 
-2019,Tax Policy Debate Competition of Henan Province,Champion
+2019,Tax Policy Debate Contest of Henan Province,Champion
 
