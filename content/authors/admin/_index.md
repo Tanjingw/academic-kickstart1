@@ -72,5 +72,3 @@ Award:
 2020,National Undergraduate statistical modeling competition,Third Prize
 
 2020,National College Students Science and technology sharing service competition,Third Prize
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
