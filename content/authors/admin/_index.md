@@ -6,11 +6,11 @@ title: Jingwen Tan
 superuser: true
 
 # Role/position/tagline
-role: Student
+role: Henan University
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Henan University
+- name: tjw@henu.edu.cn
   url: 
 
 # Short bio (displayed in user profile at end of posts)
