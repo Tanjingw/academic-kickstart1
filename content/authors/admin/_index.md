@@ -47,7 +47,7 @@ highlight_name: false
 
 Jingwen Tan is studying in the School of economics, Henan University.Research interests include Micrometric, Machine Learning and Causal Inference.
 
-**WORKING PAPER**
+**Working paper**
 
 [1] "Research on the Subjective Intention of Floating Population from the Perspective of Property Rights:Based on the 2017 Floating Population Dynamics Monitoring Survey"(with Shixi Kang) June 2021,SSCI under review.
 
@@ -57,7 +57,7 @@ Jingwen Tan is studying in the School of economics, Henan University.Research in
 
 [4]"Research on the investment intention of the main body of live e-commerce mode under the platform Incentive-Based on the perspective of evolutionary game simulation".April 2021，SCI under review.
 
-**PUBLACATION**
+**Publication**
 
 [1]Ruobing Qin, Jingwen Tan* (2021) Study on Mediating Effects Under Actions of Households' Online Shopping Influence Factors and Cash-free Payment. E3S Web of Conferences.
 
@@ -66,7 +66,7 @@ Jingwen Tan is studying in the School of economics, Henan University.Research in
 [3]Jingwen Tan*,Qingyuan Xu,Tianjiao Li (2020) An Empirical Analysis of Scented Tea Market Based on Theory of Consumer Behavior. 8th IEESASM .
 
 
-**AWARD**
+**Award**
 
 2019,The third competition of tax policy debate in Henan Province，Champion
 
