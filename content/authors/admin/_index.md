@@ -61,9 +61,9 @@ Jingwen Tan is studying in the School of economics,Henan University,research int
 
 [1]Ruobing Qin,<u>Jingwen Tan</u>* (2021) Study on Mediating Effects Under Actions of Households' Online Shopping Influence Factors and Cash-free Payment. <i>E3S Web of Conference</i>
 
-[2]<u>Jingwen Tan</u> (2020) Empirical analysis on market prospect of video platform’s PVOD. *The Fifth International Conference on Economic and Business Management*
+[2]<u>Jingwen Tan</u> (2020) Empirical analysis on market prospect of video platform’s PVOD. *FEBM2020*
 
-[3]<u>Jingwen Tan</u>*,Qingyuan Xu,Tianjiao Li (2020) An Empirical Analysis of Scented Tea Market Based on Theory of Consumer Behavior. *8th IEESASM*
+[3]<u>Jingwen Tan</u>*,Qingyuan Xu,Tianjiao Li (2020) An Empirical Analysis of Scented Tea Market Based on Theory of Consumer Behavior. *IEESASM2020*
 
 
 **Award**
