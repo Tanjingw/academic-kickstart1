@@ -62,9 +62,9 @@ Computer simulation based on Evolutionary Game.<i>IEEE-EIECS</i>
 
 [2]Ruobing Qin,<u>Jingwen Tan</u>* (2021) Study on Mediating Effects Under Actions of Households' Online Shopping Influence Factors and Cash-free Payment. <i>E3S Web of Conference</i>
 
-[3]<u>Jingwen Tan</u> (2020) Empirical analysis on market prospect of video platform’s PVOD. *5th FEBM*
+[3]<u>Jingwen Tan</u> (2020) Empirical analysis on market prospect of video platform’s PVOD. *Fifth International Conference on Economic and Business Management*
 
-[4]<u>Jingwen Tan</u>*,Qingyuan Xu,Tianjiao Li (2020) An Empirical Analysis of Scented Tea Market Based on Theory of Consumer Behavior. *8th IEESASM*
+[4]<u>Jingwen Tan</u>*,Qingyuan Xu,Tianjiao Li (2020) An Empirical Analysis of Scented Tea Market Based on Theory of Consumer Behavior. *Eighth International Education, Economics, Social Science, Arts, Sports and Management Engineering Conference*
 
 
 **Award**
