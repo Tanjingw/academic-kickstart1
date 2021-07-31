@@ -58,13 +58,13 @@ Jingwen Tan is studying in the School of economics,Henan University,research int
 **Publication**
 
 [1]<u>Jingwen Tan</u>*,Shixi Kang(2021)Platform incentive and investment willingness of participants in live E-commerce
-Computer simulation based on Evolutionary Game.<i>IEEE International Conference on Electronic Information Engineering and Computer Science</i>
+Computer simulation based on Evolutionary Game.<i>In IEEE-EIECS 2021</i>
 
-[2]Ruobing Qin,<u>Jingwen Tan</u>* (2021) Study on Mediating Effects Under Actions of Households' Online Shopping Influence Factors and Cash-free Payment. <i>E3S Web of Conference</i>
+[2]Ruobing Qin,<u>Jingwen Tan</u>* (2021) Study on Mediating Effects Under Actions of Households' Online Shopping Influence Factors and Cash-free Payment. <i>In E3S Web of Conference</i>
 
-[3]<u>Jingwen Tan</u> (2020) Empirical analysis on market prospect of video platform’s PVOD. *Fifth International Conference on Economic and Business Management*
+[3]<u>Jingwen Tan</u> (2020) Empirical analysis on market prospect of video platform’s PVOD. *In FEBM 2020*
 
-[4]<u>Jingwen Tan</u>*,Qingyuan Xu,Tianjiao Li (2020) An Empirical Analysis of Scented Tea Market Based on Theory of Consumer Behavior. *Eighth International Conference on Education, Economics, Social Science, Arts, Sports and Management Engineering*
+[4]<u>Jingwen Tan</u>*,Qingyuan Xu,Tianjiao Li (2020) An Empirical Analysis of Scented Tea Market Based on Theory of Consumer Behavior. *In IEESASM 2020*
 
 
 **Award**
