@@ -50,7 +50,6 @@ Jingwen Tan is studying in the School of economics,Henan University,research int
 **Working paper**
 
 [1] "Research on the Subjective Intention of Floating Population from the Perspective of Property Rights:Based on the 2017 Floating Population Dynamics Monitoring Survey"June 2021,SSCI under review.
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}pdf{{< /staticref >}}.
 
 [2] “Air Quality and Resident Willingness of Floating Population: An Empirical Analysis from the Perspective of Urban and Rural Dual Economy”July 2021,SSCI under review.
 
@@ -62,6 +61,7 @@ Jingwen Tan is studying in the School of economics,Henan University,research int
 Computer simulation based on Evolutionary Game.<i>In IEEE-EIECS 2021</i>
 
 [2]Ruobing Qin,<u>Jingwen Tan</u>* (2021) Study on Mediating Effects Under Actions of Households' Online Shopping Influence Factors and Cash-free Payment. <i>In E3S Web of Conference</i>
+{{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/e3s.pdf" "newtab" >}}pdf{{< /staticref >}}.
 
 [3]<u>Jingwen Tan</u> (2020) Empirical analysis on market prospect of video platform’s PVOD. *In FEBM 2020*
 
