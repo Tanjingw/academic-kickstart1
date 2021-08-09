@@ -64,6 +64,7 @@ Computer simulation based on Evolutionary Game.<i>In IEEE-EIECS 2021</i>
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/e3s.pdf" "newtab" >}}pdf{{< /staticref >}}
 
 [3]<u>Jingwen Tan</u> (2020) Empirical analysis on market prospect of video platform’s PVOD. *In FEBM 2020*
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/febm.pdf" "newtab" >}}pdf{{< /staticref >}}
 
 [4]<u>Jingwen Tan</u>*,Qingyuan Xu,Tianjiao Li (2020) An Empirical Analysis of Scented Tea Market Based on Theory of Consumer Behavior. *In IEESASM 2020*
 
