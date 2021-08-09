@@ -61,7 +61,7 @@ Jingwen Tan is studying in the School of economics,Henan University,research int
 Computer simulation based on Evolutionary Game.<i>In IEEE-EIECS 2021</i>
 
 [2]Ruobing Qin,<u>Jingwen Tan</u>* (2021) Study on Mediating Effects Under Actions of Households' Online Shopping Influence Factors and Cash-free Payment. <i>In E3S Web of Conference</i>
-{{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/e3s.pdf" "newtab" >}}pdf{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/e3s.pdf" "newtab" >}}pdf{{< /staticref >}}.
 
 [3]<u>Jingwen Tan</u> (2020) Empirical analysis on market prospect of video platform’s PVOD. *In FEBM 2020*
 
