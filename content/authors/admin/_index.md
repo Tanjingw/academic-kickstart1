@@ -17,7 +17,7 @@ organizations:
 bio: My research interests include Micrometric, Machine Learning and Causal Inference
 
 # Interests to show in About widget
-interests:
+<h1>interests:<h1/>
 - Machine Learning
 - Micrometric
 - Causal Inference
