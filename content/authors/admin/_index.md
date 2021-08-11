@@ -50,8 +50,7 @@ highlight_name: false
 
 Jingwen Tan is studying in the School of Economics,Henan University,research interests include <u>Policy Evaluation</u> and <u>Causal Inference</u>,often use <u>Machine Learning</u>, <u>Spatial Metrology</u>, <u>Instrumental Variables</u> and other methods for empirical analysis. At this stage, the main research is on the economic issues related to the social integration of China's migrant population and infrastructure construction.
 
-**Working paper**
-##Working paper
+<h1>Working paper</h1>
 
 [1] "Subjective Intention of Floating Population from the Perspective of Property Rights:Based on the 2017 Floating Population Dynamics Monitoring Survey"June 2021,SSCI under review.
 
