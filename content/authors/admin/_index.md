@@ -28,7 +28,7 @@ education:
   courses:
   - course: Bachelor of Economics
     institution: Henan University
-    year: 2018～2022
+    year: 2018.09-2022.06
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
