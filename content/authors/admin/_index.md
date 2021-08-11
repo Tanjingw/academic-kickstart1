@@ -50,6 +50,7 @@ highlight_name: false
 
 Jingwen Tan is studying in the School of Economics,Henan University,research interests include <u>Policy Evaluation</u> and <u>Causal Inference</u>,often use <u>Machine Learning</u>, <u>Spatial Metrology</u>, <u>Instrumental Variables</u> and other methods for empirical analysis. At this stage, the main research is on the economic issues related to the social integration of China's migrant population and infrastructure construction.
 
+
 <h1>Working paper</h1>
 
 [1] "Subjective Intention of Floating Population from the Perspective of Property Rights:Based on the 2017 Floating Population Dynamics Monitoring Survey"June 2021,SSCI under review.
@@ -58,7 +59,8 @@ Jingwen Tan is studying in the School of Economics,Henan University,research int
 
 [3] "Floating population's willingness to settle down and social integration——Empirical analysis based on disordered multi-classification logistic and PSM model."May 2021,SSCI under review.
 
-**Publication**
+
+<h1>Publication</h1>
 
 [1]<u>Jingwen Tan</u>*,Shixi Kang(2021)Platform incentive and investment willingness of participants in live E-commerce
 Computer simulation based on Evolutionary Game.<i>In IEEE-EIECS 2021</i>
@@ -72,7 +74,7 @@ Computer simulation based on Evolutionary Game.<i>In IEEE-EIECS 2021</i>
 [4]<u>Jingwen Tan</u>*,Qingyuan Xu,Tianjiao Li (2020) An Empirical Analysis of Scented Tea Market Based on Theory of Consumer Behavior. *In IEESASM 2020*
 
 
-**Award**
+<h1>Award</h1>
 
 2020,National Collegiate Statistical Modeling Contest,Third Prize
 
