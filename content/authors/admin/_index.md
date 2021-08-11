@@ -48,15 +48,16 @@ social:
 highlight_name: false
 ---
 
-Jingwen Tan is studying in the School of economics,Henan University,research interests include <u>Policy Evaluation</u> and <u>Causal Inference</u>,often use <u>Machine Learning</u>, <u>Spatial Metrology</u>, <u>Instrumental Variables</u> and other methods for empirical analysis. At this stage, the main research is on the economic issues related to the social integration of China's migrant population and infrastructure construction.
+Jingwen Tan is studying in the School of Economics,Henan University,research interests include <u>Policy Evaluation</u> and <u>Causal Inference</u>,often use <u>Machine Learning</u>, <u>Spatial Metrology</u>, <u>Instrumental Variables</u> and other methods for empirical analysis. At this stage, the main research is on the economic issues related to the social integration of China's migrant population and infrastructure construction.
 
 **Working paper**
+##Working paper
 
-[1] "Research on the Subjective Intention of Floating Population from the Perspective of Property Rights:Based on the 2017 Floating Population Dynamics Monitoring Survey"June 2021,SSCI under review.
+[1] "Subjective Intention of Floating Population from the Perspective of Property Rights:Based on the 2017 Floating Population Dynamics Monitoring Survey"June 2021,SSCI under review.
 
 [2] “Air Quality and Resident Willingness of Floating Population: An Empirical Analysis from the Perspective of Urban and Rural Dual Economy”July 2021,SSCI under review.
 
-[3]"Study on floating population's willingness to settle down and social integration——Empirical analysis based on disordered multi-classification logistic and PSM model."May 2021,SSCI under review.
+[3] "Floating population's willingness to settle down and social integration——Empirical analysis based on disordered multi-classification logistic and PSM model."May 2021,SSCI under review.
 
 **Publication**
 
@@ -64,10 +65,10 @@ Jingwen Tan is studying in the School of economics,Henan University,research int
 Computer simulation based on Evolutionary Game.<i>In IEEE-EIECS 2021</i>
 
 [2]Ruobing Qin,<u>Jingwen Tan</u>* (2021) Study on Mediating Effects Under Actions of Households' Online Shopping Influence Factors and Cash-free Payment. <i>In E3S Web of Conference</i>
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/e3s.pdf" "newtab" >}}pdf{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/e3s.pdf" "newtab" >}}PDF{{< /staticref >}}
 
 [3]<u>Jingwen Tan</u> (2020) Empirical analysis on market prospect of video platform’s PVOD. *In FEBM 2020*
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/febm.pdf" "newtab" >}}pdf{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/febm.pdf" "newtab" >}}PDF{{< /staticref >}}
 
 [4]<u>Jingwen Tan</u>*,Qingyuan Xu,Tianjiao Li (2020) An Empirical Analysis of Scented Tea Market Based on Theory of Consumer Behavior. *In IEESASM 2020*
 
