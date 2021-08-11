@@ -19,9 +19,9 @@ bio: My research interests include Micrometric, Machine Learning and Causal Infe
 # Interests to show in About widget
 interests:
 - Machine Learning
-- Micrometric
-- Causal Inference
-- Spatial Metrology
+- Computer Simulation
+- Spatial Econometrics
+- Randomized Controlled Trial
 
 # Education to show in About widget
 education:
