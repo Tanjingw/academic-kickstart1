@@ -49,7 +49,7 @@ social:
 highlight_name: false
 ---
 
-Jingwen Tan is studying in the School of Economics,Henan University,research interests include <b>Policy Evaluation</b> and <b>Causal Inference</b>,often use <b>Machine Learning</b>, <b>Spatial Metrology</b>, <b>Instrumental Variables</b> and other methods for empirical analysis. At this stage, the main research is on the economic issues related to the social integration of China's migrant population and infrastructure construction.
+Jingwen Tan is studying in the School of Economics,Henan University,research interests include <b>Policy Evaluation</b> and <b>Causal Inference</b>,often use <b>Machine Learning</b>, <b>Spatial Econometrics</b>, <b>Instrumental Variables</b> and other methods for empirical analysis. At this stage, the main research is on the economic issues related to the social integration of China's migrant population and infrastructure construction.
 
 
 
