@@ -6,11 +6,11 @@ title: Jingwen Tan
 superuser: true
 
 # Role/position/tagline
-role: Henan University
+role: School of Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: tjw@henu.edu.cn
+- name: Henan University
   url: 
 
 # Short bio (displayed in user profile at end of posts)
@@ -34,6 +34,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
+- icon: envelope
+  icon_pack: fas
+  link: mailto:tjw@henu.edu.cn
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/tjw_henu
