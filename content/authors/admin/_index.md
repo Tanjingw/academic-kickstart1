@@ -17,17 +17,18 @@ organizations:
 bio: My research interests include Micrometric, Machine Learning and Causal Inference
 
 # Interests to show in About widget
-<h1>interests:<h1/>
+interests:
 - Machine Learning
 - Micrometric
 - Causal Inference
+- Spatial Metrology
 
 # Education to show in About widget
 education:
   courses:
-  - course: International Economy and Trading
+  - course: Bachelor of Economics
     institution: Henan University
-    year: 2018
+    year: 2018～2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
