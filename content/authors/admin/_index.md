@@ -80,7 +80,6 @@ Computer simulation based on Evolutionary Game.<i>In IEEE-EIECS 2021</i>
 
 [4]<u>Jingwen Tan</u>*,Qingyuan Xu,Tianjiao Li (2020) An Empirical Analysis of Scented Tea Market Based on Theory of Consumer Behavior. *In IEESASM 2020*
 
-There are several articles that do not provide links to download the original data. These data are obtained from the social survey of my team. If you have any questions, you can contact me through email.
 
 
 <h1>Award</h1>
