@@ -68,7 +68,7 @@ Jingwen Tan is studying in the School of Economics,Henan University,research int
 
 <h1>Publication</h1>
 
-[1]<u>Jingwen Tan</u>*,Shixi Kang,Yang Qu(2021)Platform Incentives and Willingness of Participant for Investment on Livestreaming E-commerce Model——Computer-aided simulated analysis based on evolutionary game.<i>In IEEE-EIECS 2021</i>
+[1]<u>Jingwen Tan</u>*,Shixi Kang,Yang Qu (2021) Platform Incentives and Willingness of Participant for Investment on Livestreaming E-commerce Model——Computer-aided simulated analysis based on evolutionary game.<i>In IEEE-EIECS 2021</i>
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/EIECS.pdf" "newtab" >}}[PDF]{{< /staticref >}}
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/EG.zip" "newtab" >}}[code]{{< /staticref >}}
 
