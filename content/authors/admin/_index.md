@@ -70,17 +70,17 @@ Jingwen Tan is studying in the School of Economics,Henan University,research int
 
 <h1>Publication</h1>
 
-[1]<u>Jingwen Tan</u>*,Shixi Kang,Yang Qu (2021) Platform Incentives and Willingness of Participant for Investment on Livestreaming E-commerce Model——Computer-aided simulated analysis based on evolutionary game.In<i>"International Conference on Computer Information Science and Artificial Intelligence (CISAI2021)"</i>
+[1]<u>Jingwen Tan</u>*,Shixi Kang,Yang Qu (2021) Platform Incentives and Willingness of Participant for Investment on Livestreaming E-commerce Model——Computer-aided simulated analysis based on evolutionary game.In <i>"International Conference on Computer Information Science and Artificial Intelligence (CISAI2021)"</i>
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/cisai.pdf" "newtab" >}}[PDF]{{< /staticref >}}
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/EG.zip" "newtab" >}}[code]{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/EG.zip" "newtab" >}}[Code]{{< /staticref >}}
 
 [2]Ruobing Qin,<u>Jingwen Tan</u>* (2021) Study on Mediating Effects Under Actions of Households' Online Shopping Influence Factors and Cash-free Payment. In<i>"International Comference on Tourism,Economy and Environmental Sustainability (TEES2021)"</i>
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/e3s.pdf" "newtab" >}}[PDF]{{< /staticref >}}
 
-[3]<u>Jingwen Tan</u> (2020) Empirical analysis on market prospect of video platform’s PVOD. In*"International Conference on Economic and Business Management (FEBM2020)"*
+[3]<u>Jingwen Tan</u> (2020) Empirical analysis on market prospect of video platform’s PVOD. In <i>"International Conference on Economic and Business Management (FEBM2020)"</i>
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/febm.pdf" "newtab" >}}[PDF]{{< /staticref >}}
 
-[4]<u>Jingwen Tan</u>*,Qingyuan Xu,Tianjiao Li (2020) An Empirical Analysis of Scented Tea Market Based on Theory of Consumer Behavior. In*IEESASM 2020*
+[4]<u>Jingwen Tan</u>*,Qingyuan Xu,Tianjiao Li (2020) An Empirical Analysis of Scented Tea Market Based on Theory of Consumer Behavior. In <i>IEESASM 2020</i>
 
 
 
