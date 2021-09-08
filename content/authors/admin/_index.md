@@ -58,24 +58,26 @@ Jingwen Tan is studying in the School of Economics,Henan University,research int
 
 <h1>Working paper</h1>
 
-[1] "Subjective Intention of Floating Population from the Perspective of Property Rights:Based on the 2017 Floating Population Dynamics Monitoring Survey"June 2021,SSCI under review.
+[1]<u>Jingwen Tan</u>,Shixi Kang(Sept 2021)"Urban Housing Prices and Floating Population's Willingness to Give Birth
+——Empirical analysis based on China Migrants Dynamic Survey 2018"CEA under review.
 
-[2] “Air Quality and Resident Willingness of Floating Population: An Empirical Analysis from the Perspective of Urban and Rural Dual Economy”July 2021,SSCI under review.
+[2]<u>Jingwen Tan</u>,Shixi Kang(July 2021)“Air Quality and Resident Willingness of Floating Population: An Empirical Analysis from the Perspective of Urban and Rural Dual Economy”SSCI under review.
 
-[3] "Floating population's willingness to settle down and social integration——Empirical analysis based on disordered multi-classification logistic and PSM model."May 2021,SSCI under review.
+[3]<u>Jingwen Tan</u>,Shixi Kang(May 2021)"Subjective Intention of Floating Population from the Perspective of Property Rights:Based on China Migrants Dynamic Survey 2017"SSCI under review."
 
+[4]<u>Jingwen Tan</u>,Yaning Guo(Feb 2021)Floating population's willingness to settle down and social integration——Empirical analysis based on disordered multi-classification logistic and PSM model."SSCI under review.
 
 
 <h1>Publication</h1>
 
-[1]<u>Jingwen Tan</u>*,Shixi Kang,Yang Qu (2021) Platform Incentives and Willingness of Participant for Investment on Livestreaming E-commerce Model——Computer-aided simulated analysis based on evolutionary game.<i>In IEEE-EIECS 2021</i>
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/EIECS.pdf" "newtab" >}}[PDF]{{< /staticref >}}
+[1]<u>Jingwen Tan</u>*,Shixi Kang,Yang Qu (2021) Platform Incentives and Willingness of Participant for Investment on Livestreaming E-commerce Model——Computer-aided simulated analysis based on evolutionary game.<i>In "International Conference on Computer Information Science and Artificial Intelligence (CISAI2021)"</i>
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/cisai.pdf" "newtab" >}}[PDF]{{< /staticref >}}
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/EG.zip" "newtab" >}}[code]{{< /staticref >}}
 
-[2]Ruobing Qin,<u>Jingwen Tan</u>* (2021) Study on Mediating Effects Under Actions of Households' Online Shopping Influence Factors and Cash-free Payment. <i>In E3S Web of Conference</i>
+[2]Ruobing Qin,<u>Jingwen Tan</u>* (2021) Study on Mediating Effects Under Actions of Households' Online Shopping Influence Factors and Cash-free Payment. <i>In "International Comference on Tourism,Economy and Environmental Sustainability (TEES2021)"</i>
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/e3s.pdf" "newtab" >}}[PDF]{{< /staticref >}}
 
-[3]<u>Jingwen Tan</u> (2020) Empirical analysis on market prospect of video platform’s PVOD. *In FEBM 2020*
+[3]<u>Jingwen Tan</u> (2020) Empirical analysis on market prospect of video platform’s PVOD. *In "International Conference on Economic and Business Management (FEBM2020)*
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/febm.pdf" "newtab" >}}[PDF]{{< /staticref >}}
 
 [4]<u>Jingwen Tan</u>*,Qingyuan Xu,Tianjiao Li (2020) An Empirical Analysis of Scented Tea Market Based on Theory of Consumer Behavior. *In IEESASM 2020*
