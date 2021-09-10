@@ -58,7 +58,7 @@ Jingwen Tan is studying in the School of Economics,Henan University,research int
 
 <h1>Working paper</h1>
 
-[1]<u>Jingwen Tan</u>,Shixi Kang(Sep. 2021)"Urban Housing Prices and Floating Population's Willingness to Give Birth——Empirical analysis based on China Migrants Dynamic Survey 2018"CEA under review.
+[1]<u>Jingwen Tan</u>,Shixi Kang(Sep. 2021)"Urban Housing Prices and Floating Population's Willingness to Fertility——Empirical analysis based on China Migrants Dynamic Survey 2018"CEA under review.
 
 [2]Shixi Kang,<u>Jingwen Tan</u>(Aug. 2021)“Navigation of the Three Gorges and Urban Economic Development——Research based on DMSP/OLS satellite lighting data”CEA under review.
 
