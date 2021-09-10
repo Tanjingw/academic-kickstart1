@@ -58,14 +58,15 @@ Jingwen Tan is studying in the School of Economics,Henan University,research int
 
 <h1>Working paper</h1>
 
-[1]<u>Jingwen Tan</u>,Shixi Kang(Sept 2021)"Urban Housing Prices and Floating Population's Willingness to Give Birth
-——Empirical analysis based on China Migrants Dynamic Survey 2018"CEA under review.
+[1]<u>Jingwen Tan</u>,Shixi Kang(Sep. 2021)"Urban Housing Prices and Floating Population's Willingness to Give Birth——Empirical analysis based on China Migrants Dynamic Survey 2018"CEA under review.
 
-[2]<u>Jingwen Tan</u>,Shixi Kang(July 2021)“Air Quality and Resident Willingness of Floating Population: An Empirical Analysis from the Perspective of Urban and Rural Dual Economy”SSCI under review.
+[2]Shixi Kang,<u>Jingwen Tan</u>(Aug. 2021)“Navigation of the Three Gorges and Urban Economic Development——Research based on DMSP/OLS satellite lighting data”CEA under review.
+
+[2]<u>Jingwen Tan</u>,Shixi Kang(Jun. 2021)“Air Quality and Resident Willingness of Floating Population: An Empirical Analysis from the Perspective of Urban and Rural Dual Economy”SSCI under review.
 
 [3]<u>Jingwen Tan</u>,Shixi Kang(May 2021)"Subjective Intention of Floating Population from the Perspective of Property Rights:Based on China Migrants Dynamic Survey 2017"SSCI under review.
 
-[4]<u>Jingwen Tan</u>,Yaning Guo(Feb 2021)"Floating population's willingness to settle down and social integration——Empirical analysis based on disordered multi-classification logistic and PSM model."SSCI under review.
+[4]<u>Jingwen Tan</u>,Yaning Guo(Dec. 2020)"Floating population's willingness to settle down and social integration——Empirical analysis based on disordered multi-classification logistic and PSM model."SSCI under review.
 
 
 <h1>Publication</h1>
@@ -80,7 +81,7 @@ Jingwen Tan is studying in the School of Economics,Henan University,research int
 [3]<u>Jingwen Tan</u> (2020) Empirical analysis on market prospect of video platform’s PVOD. In <i>"International Conference on Economic and Business Management (FEBM2020)"</i>
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/febm.pdf" "newtab" >}}[PDF]{{< /staticref >}}
 
-[4]<u>Jingwen Tan</u>*,Qingyuan Xu,Tianjiao Li (2020) An Empirical Analysis of Scented Tea Market Based on Theory of Consumer Behavior. In <i>IEESASM 2020</i>
+[4]<u>Jingwen Tan</u>*,Qingyuan Xu,Tianjiao Li (2020) An Empirical Analysis of Scented Tea Market Based on Theory of Consumer Behavior. In <i>"IEESASM 2020"</i>
 
 
 
