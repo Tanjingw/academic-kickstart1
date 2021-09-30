@@ -60,7 +60,7 @@ Jingwen Tan is studying in the School of Economics, Henan University, research i
 
 [1]<u>Jingwen Tan</u>, Shixi Kang (Oct. 2021) “Navigation of the Three Gorges and Total Factor Productivity Growth——Evidence From Quasi-Experiment” Forthcoming.
 
-[2]<u>Jingwen Tan</u>, Shixi Kang (Sep. 2021) "Urban Housing Prices and Floating Population's Willingness to Fertility——Empirical analysis based on China Migrants Dynamic Survey 2018" CEA under review.
+[2]<u>Jingwen Tan</u>, Shixi Kang (Sep. 2021) "Urban Housing Prices and Floating Population's Willingness to Fertility——Empirical analysis based on China Migrants Dynamic Survey 2018" SSCI under review.
 
 [3]<u>Jingwen Tan</u>, Shixi Kang (Jun. 2021) “Air Quality and Resident Willingness of Floating Population: An Empirical Analysis from the Perspective of Urban and Rural Dual Economy” SSCI under review.
 
@@ -71,7 +71,7 @@ Jingwen Tan is studying in the School of Economics, Henan University, research i
 
 <h1>Publication</h1>
 
-[1]Shixi Kang*, <u>Jingwen Tan</u>, Aolong Liu (2021) Navigation of the Three Gorges and Urban Economic Development——Research based on DMSP/OLS satellite lighting data. In <i>"China Economics Annual Conference (CEA2021)"</i>
+[1]Shixi Kang*, <u>Jingwen Tan</u>, Aolong Liu (2021) Navigation of the Three Gorges and Urban Economic Development——Research based on DMSP/OLS satellite lighting data. In <i>"China Economics Annual Conference (CEA 2021)"</i>
 
 [2]<u>Jingwen Tan</u>*, Shixi Kang,Yang Qu (2021) Platform Incentives and Willingness of Participant for Investment on Livestreaming E-commerce Model——Computer-aided simulated analysis based on evolutionary game. In <i>"International Conference on Computer Information Science and Artificial Intelligence (CISAI2021)"</i>
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/cisai.pdf" "newtab" >}}[PDF]{{< /staticref >}}
