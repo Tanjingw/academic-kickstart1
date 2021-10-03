@@ -89,9 +89,9 @@ Jingwen Tan is studying in the School of Economics, Henan University, research i
 
 <h1>Award</h1>
 
-2020, National Collegiate Statistical Modeling Contest, Third Prize
+2020, China National Collegiate Statistical Modeling Contest, Third Prize
 
-2020, National Collegiate Science and Technology Sharing Service Innovation Contest, Third Prize
+2020, China National Collegiate Science and Technology Sharing Service Innovation Contest, Third Prize
 
 2019, Tax Policy Debate Contest of Henan Province, Champion
 
