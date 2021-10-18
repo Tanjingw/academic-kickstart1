@@ -56,7 +56,7 @@ Jingwen Tan is studying in the School of Economics, Henan University, research i
 
 
 
-<h1>Working paper</h1>
+<h1>Publacation & Current Reasearch</h1>
 
 [1]<u>Jingwen Tan</u>, Shixi Kang (Oct. 2021) <b>“Navigation of the Three Gorges and Total Factor Productivity Growth——Evidence From Quasi-Experiment”</b> Forthcoming.
 
@@ -69,7 +69,7 @@ Jingwen Tan is studying in the School of Economics, Henan University, research i
 [5]<u>Jingwen Tan</u>, Yaning Guo (Dec. 2020) <b>"Floating population's willingness to settle down and social integration——Empirical analysis based on disordered multi-classification logistic and PSM model."</b> SSCI under review.
 
 
-<h1>Publication</h1>
+<h1>Conference Papers</h1>
 
 [1]Shixi Kang*, <u>Jingwen Tan</u>, Aolong Liu (2021) <b>Navigation of the Three Gorges and Urban Economic Development——Research based on DMSP/OLS satellite lighting data.</b> In <i>"China Economics Annual Conference (CEA 2021)"</i>
 
