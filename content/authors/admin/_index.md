@@ -84,7 +84,6 @@ Jingwen Tan is studying in the School of Economics, Henan University, research i
 [4]<u>Jingwen Tan</u> (2020) <b>Empirical analysis on market prospect of video platform’s PVOD.</b> In <i>"International Conference on Economic and Business Management (FEBM2020)"</i>
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/febm.pdf" "newtab" >}}[PDF]{{< /staticref >}}
 
-[5]<u>Jingwen Tan</u>*, Qingyuan Xu, Tianjiao Li (2020) <b>An Empirical Analysis of Scented Tea Market Based on Theory of Consumer Behavior.</b> In <i>"International Education, Economics, Social Science, Arts, Sports and Management Engineering Conference (IEESASM 2020)"</i>
 
 
 
