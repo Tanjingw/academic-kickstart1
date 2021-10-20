@@ -65,7 +65,9 @@ Jingwen Tan is studying in the School of Economics, Henan University, research i
 [3]<u>Jingwen Tan</u>, Shixi Kang (Jun. 2021) <b>“Air Quality and Resident Willingness of Floating Population: An Empirical Analysis from the Perspective of Urban and Rural Dual Economy”</b> SSCI under review.
 
 [4]<u>Jingwen Tan</u>, Shixi Kang (May 2021) <b>"Housing Property Rights and Social Integration of Migrant Population: Based on the 2017 China Migrants' Dynamic Survey"</b> SSCI under review.
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/working paper 01.pdf" "newtab" >}}[PDF]{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/1/wp01.pdf" "newtab" >}}[PDF]{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/1/code.do" "newtab" >}}[code]{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/1/part 1.dta" "newtab" >}}[data]{{< /staticref >}}
 
 [5]<u>Jingwen Tan</u>, Yaning Guo (Dec. 2020) <b>"Floating population's willingness to settle down and social integration——Empirical analysis based on disordered multi-classification logistic and PSM model."</b> SSCI under review.
 
@@ -76,7 +78,7 @@ Jingwen Tan is studying in the School of Economics, Henan University, research i
 
 [2]<u>Jingwen Tan</u>*, Shixi Kang,Yang Qu (2021) <b>Platform Incentives and Willingness of Participant for Investment on Livestreaming E-commerce Model——Computer-aided simulated analysis based on evolutionary game.</b> In <i>"International Conference on Computer Information Science and Artificial Intelligence (CISAI2021)"</i>
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/cisai.pdf" "newtab" >}}[PDF]{{< /staticref >}}
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/EG.zip" "newtab" >}}[Code]{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/EG.zip" "newtab" >}}[code]{{< /staticref >}}
 
 [3]Ruobing Qin, <u>Jingwen Tan</u>* (2021) <b>Study on Mediating Effects Under Actions of Households' Online Shopping Influence Factors and Cash-free Payment.</b> In<i>"International Comference on Tourism,Economy and Environmental Sustainability (TEES2021)"</i>
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/e3s.pdf" "newtab" >}}[PDF]{{< /staticref >}}
