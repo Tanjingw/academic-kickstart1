@@ -64,7 +64,7 @@ Jingwen Tan is studying in the School of Economics, Henan University, research i
 
 [3]<u>Jingwen Tan</u>, Shixi Kang (Jun. 2021) <b>“Air Quality and Resident Willingness of Floating Population: An Empirical Analysis from the Perspective of Urban and Rural Dual Economy”</b> SSCI under review.
 
-[4]<u>Jingwen Tan</u>, Shixi Kang (May 2021) <b>"Housing Property Rights and Citizenship of Migrant Population: Based on the 2017 China Migrants’ Dynamic Survey"</b> SSCI under review.
+[4]<u>Jingwen Tan</u>, Shixi Kang (May 2021) <b>"Housing Property Rights and Social Integration of Migrant Population: Based on the 2017 China Migrants' Dynamic Survey"</b> SSCI under review.
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/working paper 01.pdf" "newtab" >}}[PDF]{{< /staticref >}}
 
 [5]<u>Jingwen Tan</u>, Yaning Guo (Dec. 2020) <b>"Floating population's willingness to settle down and social integration——Empirical analysis based on disordered multi-classification logistic and PSM model."</b> SSCI under review.
