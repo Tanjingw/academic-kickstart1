@@ -61,8 +61,10 @@ Jingwen Tan is studying in the School of Economics, Henan University, research i
 [1]<u>Jingwen Tan</u>, Shixi Kang (Oct. 2021) <b>“Navigation of the Three Gorges and Total Factor Productivity Growth——Evidence From Quasi-Experiment”</b> Forthcoming.
 
 [2]<u>Jingwen Tan</u>, Shixi Kang (Sep. 2021) <b>"Urban Housing Prices and Floating Population's Willingness to Fertility——Empirical analysis based on China Migrants Dynamic Survey 2018"</b> SSCI under review.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/wp2.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 
 [3]<u>Jingwen Tan</u>, Shixi Kang (Jun. 2021) <b>“Air Quality and Resident Willingness of Floating Population: An Empirical Analysis from the Perspective of Urban and Rural Dual Economy”</b> SSCI under review.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/wp3.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 
 [4]<u>Jingwen Tan</u>, Shixi Kang (May 2021) <b>"Housing Property Rights and Social Integration of Migrant Population: Based on the 2017 China Migrants' Dynamic Survey"</b> SSCI under review.
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/1/wp01.pdf" "newtab" >}}[pdf]{{< /staticref >}}
