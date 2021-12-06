@@ -68,7 +68,7 @@ Jingwen Tan is studying in the School of Economics, Henan University, research i
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/1/code.do" "newtab" >}}[code]{{< /staticref >}}
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/1/part 1.dta" "newtab" >}}[data]{{< /staticref >}}
 
-[4]<u>Jingwen Tan</u>, Shixi Kang <b>"Can household size be an instrumental variable for household registration? A Concurrent Discussion of the Impact of China's Household Registration System on the Citizenship of the Migrant Population."</b> under review.
+[4]<u>Jingwen Tan</u>, Shixi Kang <b>"Finding the instrumental variables of household registration. A Concurrent Discussion of the Impact of China's Household Registration System on the Citizenship of the Migrant Population."</b> under review.
 
 [5]Shixi Kang, <u>Jingwen Tan</u> <b>"Can Education Motivate Individual Health Demands? Dynamic Pseudo-panel Evidence from China's Immigration"</b> under review.
 
