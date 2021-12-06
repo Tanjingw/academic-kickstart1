@@ -58,22 +58,23 @@ Jingwen Tan is studying in the School of Economics, Henan University, research i
 
 <h1>Publacation & Current Reasearch</h1>
 
-[1]<u>Jingwen Tan</u>, Shixi Kang (Oct. 2021) <b>“Navigation of the Three Gorges and Total Factor Productivity Growth——Evidence From Quasi-Experiment”</b> Forthcoming.
-
-[2]<u>Jingwen Tan</u>, Shixi Kang (Sep. 2021) <b>"Urban Housing Prices and Floating Population's Willingness to Fertility——Empirical analysis based on China Migrants Dynamic Survey 2018"</b> under review.
+[1]<u>Jingwen Tan</u>, Shixi Kang (Sep. 2021) <b>"Urban Housing Prices and Floating Population's Willingness to Fertility——Empirical analysis based on China Migrants Dynamic Survey 2018"</b> under review.
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/wp2.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 
-[3]<u>Jingwen Tan</u>, Shixi Kang (Jun. 2021) <b>“Air Quality and Resident Willingness of Floating Population: An Empirical Analysis from the Perspective of Urban and Rural Dual Economy”</b> under review.
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/wp3.pdf" "newtab" >}}[pdf]{{< /staticref >}}
+[2]<u>Jingwen Tan</u>, Shixi Kang (Jun. 2021) <b>“Air Quality and Resident Willingness of Floating Population: An Empirical Analysis from the Perspective of Urban and Rural Dual Economy”</b> under review.}
 
-[4]<u>Jingwen Tan</u>, Shixi Kang (May 2021) <b>"Housing Property Rights and Social Integration of Migrant Population: Based on the 2017 China Migrants' Dynamic Survey"</b> under review.
+[3]<u>Jingwen Tan</u>, Shixi Kang (May 2021) <b>"Housing Property Rights and Social Integration of Migrant Population: Based on the 2017 China Migrants' Dynamic Survey"</b> under review.
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/1/wp01.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/1/code.do" "newtab" >}}[code]{{< /staticref >}}
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/1/part 1.dta" "newtab" >}}[data]{{< /staticref >}}
 
-[5]<u>Jingwen Tan</u>, Yaning Guo (Dec. 2020) <b>"Floating population's willingness to settle down and social integration——Empirical analysis based on disordered multi-classification logistic and PSM model."</b> under review.
+[4]<u>Jingwen Tan</u>, Shixi Kang <b>"Can household size be an instrumental variable for household registration? A Concurrent Discussion of the Impact of China's Household Registration System on the Citizenship of the Migrant Population."</b> under review.
 
-[6]<b>"Can household size be an instrumental variable for household registration? A Concurrent Discussion of the Impact of China's Household Registration System on the Citizenship of the Migrant Population."</b> Forthcoming.
+[5]Shixi Kang, <u>Jingwen Tan</u> <b>"Can Education Motivate Individual Health Demands? Dynamic Pseudo-panel Evidence from China's Immigration"</b> under review.
+
+[6]<b>"Infrastructure Development and Labor Supply: Evidence from the Three Gorges Navigable Quasi-Natural Experiment and RDD in China" working in progress
+ 
+[7]<b>"Household registration system reform and labour supply in China: Evidence from a quasi-natural experiment" working in progress
 
 
 <h1>Conference Papers</h1>
