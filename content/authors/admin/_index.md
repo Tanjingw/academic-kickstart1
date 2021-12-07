@@ -72,9 +72,9 @@ Jingwen Tan is studying in the School of Economics, Henan University, research i
 
 [5]Shixi Kang, <u>Jingwen Tan</u> <b>"Can Education Motivate Individual Health Demands? Dynamic Pseudo-panel Evidence from China's Immigration"</b> under review.
 
-[6]<b>"Infrastructure Development and Labor Supply: Evidence from the Three Gorges Navigable Quasi-Natural Experiment and RDD in China" working in progress
+[6]<b>"Infrastructure Development and Labor Supply: Evidence from the Three Gorges Navigable Quasi-Natural Experiment and RDD in China"</b> working in progress
  
-[7]<b>"Household registration system reform and labour supply in China: Evidence from a quasi-natural experiment" working in progress
+[7]<b>"Household registration system reform and labour supply in China: Evidence from a quasi-natural experiment"</b> working in progress
 
 
 <h1>Conference Papers</h1>
