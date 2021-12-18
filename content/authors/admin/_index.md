@@ -61,16 +61,19 @@ Jingwen Tan is studying in the School of Economics, Henan University, research i
 [1]<u>Jingwen Tan</u>, Shixi Kang (Sep. 2021) <b>"Urban Housing Prices and Floating Population's Willingness to Fertility——Empirical analysis based on China Migrants Dynamic Survey 2018"</b> under review.
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/wp2.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 
-[2]<u>Jingwen Tan</u>, Shixi Kang (Jun. 2021) <b>“Air Quality and Resident Willingness of Floating Population: An Empirical Analysis from the Perspective of Urban and Rural Dual Economy”</b> under review.}
+[2]<u>Jingwen Tan</u>, Shixi Kang <b>"Finding the instrumental variables of household registration. A Concurrent Discussion of the Impact of China's Household Registration System on the Citizenship of the Migrant Population."</b> under review.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/IV.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 
-[3]<u>Jingwen Tan</u>, Shixi Kang (May 2021) <b>"Housing Property Rights and Social Integration of Migrant Population: Based on the 2017 China Migrants' Dynamic Survey"</b> under review.
+[3]<u>Jingwen Tan</u>, Shixi Kang (Jun. 2021) <b>“Air Quality and Resident Willingness of Floating Population: An Empirical Analysis from the Perspective of Urban and Rural Dual Economy”</b> under review.}
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/SCS.pdf" "newtab" >}}[pdf]{{< /staticref >}}
+
+[4]<u>Jingwen Tan</u>, Shixi Kang (May 2021) <b>"Housing Property Rights and Social Integration of Migrant Population: Based on the 2017 China Migrants' Dynamic Survey"</b> under review.
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/1/wp01.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/1/code.do" "newtab" >}}[code]{{< /staticref >}}
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/1/part 1.dta" "newtab" >}}[data]{{< /staticref >}}
 
-[4]<u>Jingwen Tan</u>, Shixi Kang <b>"Finding the instrumental variables of household registration. A Concurrent Discussion of the Impact of China's Household Registration System on the Citizenship of the Migrant Population."</b> under review.
-
 [5]Shixi Kang, <u>Jingwen Tan</u> <b>"Can Education Motivate Individual Health Demands? Dynamic Pseudo-panel Evidence from China's Immigration"</b> under review.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/HE.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 
 [6]<b>"Infrastructure Development and Labor Supply: Evidence from the Three Gorges Navigable Quasi-Natural Experiment and RDD in China"</b> working in progress
  
@@ -80,6 +83,7 @@ Jingwen Tan is studying in the School of Economics, Henan University, research i
 <h1>Conference Papers</h1>
 
 [1]Shixi Kang*, <u>Jingwen Tan</u>, Aolong Liu (2021) <b>Navigation of the Three Gorges and Urban Economic Development——Research based on DMSP/OLS satellite lighting data.</b> In <i>"China Economics Annual Conference (CEA 2021)"</i>
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/CEA.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 
 [2]<u>Jingwen Tan</u>*, Shixi Kang,Yang Qu (2021) <b>Platform Incentives and Willingness of Participant for Investment on Livestreaming E-commerce Model——Computer-aided simulated analysis based on evolutionary game.</b> In <i>"International Conference on Computer Information Science and Artificial Intelligence (CISAI2021)"</i>
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/cisai.pdf" "newtab" >}}[pdf]{{< /staticref >}}
