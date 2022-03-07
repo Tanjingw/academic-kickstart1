@@ -10,7 +10,7 @@ role:  Department of Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Copenhagen
+- name: Henan University
   url: 
 
 # Short bio (displayed in user profile at end of posts)
