@@ -53,7 +53,7 @@ social:
 highlight_name: false
 ---
 
-Jingwen Tan is studying in the School of Economics, Henan University, research interests include <b>Policy Evaluation</b> and <b>Causal Inference</b>, often use <b>Machine Learning</b>, <b>Spatial Econometrics</b>, <b>Instrumental Variables</b> and other methods for empirical analysis. At this stage, the main research is on the economic issues related to the social integration of China's migrant population and infrastructure construction.
+I am studying in the University of Copenhagen, research interests include <b>Policy Evaluation</b> and <b>Causal Inference</b>, often use <b>Machine Learning</b>, <b>Spatial Econometrics</b>, <b>Instrumental Variables</b> and other methods for empirical analysis. At this stage, the main research is on the economic issues related to the social integration of China's migrant population and infrastructure construction.
 
 
 
@@ -93,7 +93,7 @@ Jingwen Tan is studying in the School of Economics, Henan University, research i
 [2]Ruobing Qin, <u>Jingwen Tan</u>* (2021) <b>Study on Mediating Effects Under Actions of Households' Online Shopping Influence Factors and Cash-free Payment.</b> In<i>"International Comference on Tourism,Economy and Environmental Sustainability (TEES2021)"</i>
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/e3s.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 
-[3]<u>Jingwen Tan</u> (2020) <b>Empirical analysis on market prospect of video platform’s PVOD.</b> In <i>"International Conference on Economic and Business Management (FEBM2020)"</i>
+[3]<u>Jingwen Tan</u> (2020) <b>Empirical analysis on market prospect of video platform’s Premature Video-on-Demand(PVOD).</b> In <i>"International Conference on Economic and Business Management (FEBM2020)"</i>
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/febm.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 
 
