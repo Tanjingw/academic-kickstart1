@@ -68,20 +68,17 @@ I am studying in the University of Copenhagen, research interests include <b>Pol
 [3]Shixi Kang*, <u>Jingwen Tan</u>, Aolong Liu (2021) <b>"Navigation of the Three Gorges and Urban Economic Development——Research based on DMSP/OLS satellite lighting data."</b> In <i>China Economics Annual Conference (CEA 2021)</i>
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/CEA.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 
-[4]<u>Jingwen Tan</u>, Shixi Kang (Jun. 2021) <b>“Air Quality and Resident Willingness of Floating Population: An Empirical Analysis from the Perspective of Urban and Rural Dual Economy”</b> under review.}
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/SCS.pdf" "newtab" >}}[pdf]{{< /staticref >}}
-
-[5]<u>Jingwen Tan</u>, Shixi Kang (May 2021) <b>"Housing Property Rights and Social Integration of Migrant Population: Based on the 2017 China Migrants' Dynamic Survey"</b> under review.
+[4]<u>Jingwen Tan</u>, Shixi Kang (May 2021) <b>"Housing Property Rights and Social Integration of Migrant Population: Based on the 2017 China Migrants' Dynamic Survey"</b> under review.
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/1/wp01.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/1/code.do" "newtab" >}}[code]{{< /staticref >}}
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/1/part 1.dta" "newtab" >}}[data]{{< /staticref >}}
 
-[6]Shixi Kang, <u>Jingwen Tan</u> <b>"Can Education Motivate Individual Health Demands? Dynamic Pseudo-panel Evidence from China's Immigration"</b> under review.
+[5]Shixi Kang, <u>Jingwen Tan</u> <b>"Can Education Motivate Individual Health Demands? Dynamic Pseudo-panel Evidence from China's Immigration"</b> under review.
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/HE.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 
-[7]<b>"Infrastructure Development and Labor Supply: Evidence from the Three Gorges Navigable Quasi-Natural Experiment and RDD in China"</b> working in progress
+[6]<b>"Infrastructure Development and Labor Supply: Evidence from the Three Gorges Navigable Quasi-Natural Experiment and RDD in China"</b> working in progress
  
-[8]<b>"Household registration system reform and labour supply in China: Evidence from a quasi-natural experiment"</b> working in progress
+[7]<b>"Household registration system reform and labour supply in China: Evidence from a quasi-natural experiment"</b> working in progress
 
 
 <h1>Conference Papers</h1>
