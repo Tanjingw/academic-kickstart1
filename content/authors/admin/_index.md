@@ -10,7 +10,7 @@ role:  Department of Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Henan University
+- name: University of Copenhagen
   url: 
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,10 +28,8 @@ education:
   courses:
   - course: Master of Economics
     institution: University of Copenhagen
-    year: 2022.09-2024.06
   - course: Bachelor of Economics
     institution: Henan University
-    year: 2018.09-2022.06
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
