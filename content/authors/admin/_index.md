@@ -41,7 +41,7 @@ social:
   link: mailto:tjw@henu.edu.cn
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/tjw_henu
+  link: https://twitter.com/tjw_ku
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com.hk/citations?user=6kJUgLsAAAAJ&hl=en
