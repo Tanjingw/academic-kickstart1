@@ -18,15 +18,15 @@ bio: My research interests include Micrometric, Machine Learning and Causal Infe
 
 # Interests to show in About widget
 interests:
-- Machine Learning
-- Computer Simulation
+- Development Economics
+- Labor Economics
 - Spatial Econometrics
 - Randomized Controlled Trial
 
 # Education to show in About widget
 education:
   courses:
-  - course: Master of Economics
+  - course: Postgraduate in Economics
     institution: University of Copenhagen
   - course: Bachelor of Economics
     institution: Henan University
