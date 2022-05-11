@@ -38,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:tjw@henu.edu.cn
+  link: mailto:rjh870@alumni.ku.dk
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/tjw_ku
