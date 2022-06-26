@@ -99,6 +99,8 @@ CV: {{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV.pdf" "newt
 
 
 <h1>Award</h1>
+* 8th China National Collegiate Statistical Modeling Contest, First Prize in Henan province, 2022
+
 
 * 7th China National Collegiate Statistical Modeling Contest, Third Prize, 2021
 
