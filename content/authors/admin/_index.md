@@ -17,14 +17,14 @@ organizations:
 bio: My research interests include Micrometric, Machine Learning and Causal Inference
 
 # Interests to show in About widget
-interests:
-- Development Economics
-- Labor Economics
-- Spatial Econometrics
-- Randomized Controlled Trial
+Awards:
+- 8th China National Collegiate Statistical Modeling Contest, First Prize, 2022
+- 7th China National Collegiate Statistical Modeling Contest, Third Prize, 2021
+- 6th China National Collegiate Statistical Modeling Contest, Third Prize, 2019
+- Tax Policy Debate Contest of Henan Province, Champion, 2019
 
 # Education to show in About widget
-education:
+Education:
   courses:
   - course: Postgraduate in Economics
     institution: University of Copenhagen
