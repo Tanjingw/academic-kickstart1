@@ -18,10 +18,11 @@ bio: My research interests include Micrometric, Machine Learning and Causal Infe
 
 # Interests to show in About widget
 Awards:
-- 8th China National Collegiate Statistical Modeling Contest, First Prize, 2022
-- 7th China National Collegiate Statistical Modeling Contest, Third Prize, 2021
-- 6th China National Collegiate Statistical Modeling Contest, Third Prize, 2019
-- Tax Policy Debate Contest of Henan Province, Champion, 2019
+- First Prize in 2022 China National Collegiate Statistical Modeling Contest
+- Third Prize in 2022 China National Collegiate Statistical Modeling Contest
+- Third Prize in 2022 China National Collegiate Statistical Modeling Contest
+- Champion in 2019 Tax Policy Debate Contest of Henan Province
+
 
 # Education to show in About widget
 Education:
