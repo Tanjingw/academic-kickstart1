@@ -17,8 +17,11 @@ organizations:
 bio: My research interests include Micrometric, Machine Learning and Causal Inference
 
 # Interests to show in About widget
-Interests:
-
+interests:
+- Microeconometrics
+- Spatial Econometrics
+- Labour Economics
+- Development Economics
 
 # Education to show in About widget
 Education:
