@@ -70,9 +70,6 @@ Shixi Kang, <u>Jingwen Tan</u> "Can Education Motivate Individual Health Demands
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/cisai.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/EG.zip" "newtab" >}}[code]{{< /staticref >}}
 
-Ruobing Qin, <u>Jingwen Tan</u>* "Mediating Effects Under Actions of Households' Online Shopping Influence Factors and Cash-free Payment." <i>In International Comference on Tourism,Economy and Environmental Sustainability (TEES2021).</i>
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/e3s.pdf" "newtab" >}}[pdf]{{< /staticref >}}
-
 <h1>Working Papers</h1>
 
 [1]<u>Jingwen Tan</u>, Shixi Kang "The impacts of China's hukou system on the social integration of migrant populations: A discussion based on a new instrumental variable." <i>under review.</i>
