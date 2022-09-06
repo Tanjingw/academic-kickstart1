@@ -57,18 +57,18 @@ CV: {{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV.pdf" "newt
 
 <h1>Publacation</h1>
 
-<u>2022</u>
+<b>2022</b>
 
-Shixi Kang, <u>Jingwen Tan</u> <b>"Can Education Motivate Individual Health Demands? Dynamic Pseudo-panel Evidence from China's Immigration"</b> BMC Public Health, Forthcoming.
+Shixi Kang, <u>Jingwen Tan</u> "Can Education Motivate Individual Health Demands? Dynamic Pseudo-panel Evidence from China's Immigration." <i>In BMC Public Health</i>, Forthcoming.
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/HE.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 
-<u>2021</u>
+<h1>2021</h1>
 
-<u>Jingwen Tan</u>*, Shixi Kang,Yang Qu (2021) <b>Platform Incentives and Willingness of Participant for Investment on Livestreaming E-commerce Model——Computer-aided simulated analysis based on evolutionary game.</b> In <i>"International Conference on Computer Information Science and Artificial Intelligence (CISAI2021)"</i>
+<u>Jingwen Tan</u>, Shixi Kang, Yang Qu "Platform Incentives and Willingness of Participant for Investment on Livestreaming E-commerce Model——Computer-aided simulated analysis based on evolutionary game." <i>In International Conference on Computer Information Science and Artificial Intelligence (CISAI2021)</i>
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/cisai.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/EG.zip" "newtab" >}}[code]{{< /staticref >}}
 
-Ruobing Qin, <u>Jingwen Tan</u>* (2021) <b>Study on Mediating Effects Under Actions of Households' Online Shopping Influence Factors and Cash-free Payment.</b> In<i>"International Comference on Tourism,Economy and Environmental Sustainability (TEES2021)"</i>
+Ruobing Qin, <u>Jingwen Tan</u>* "Mediating Effects Under Actions of Households' Online Shopping Influence Factors and Cash-free Payment." <i>In International Comference on Tourism,Economy and Environmental Sustainability (TEES2021)</i>
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/e3s.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 
 <h1>Working Paper</h1>
