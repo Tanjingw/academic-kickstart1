@@ -58,7 +58,7 @@ I am studying in the University of Copenhagen, research interests include <b>Pol
 CV: {{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 
 
-<h1>Publacation</h1>
+<h1>Publacations</h1>
 
 <b>2022</b>
 
@@ -74,7 +74,7 @@ Shixi Kang, <u>Jingwen Tan</u> "Can Education Motivate Individual Health Demands
 Ruobing Qin, <u>Jingwen Tan</u>* "Mediating Effects Under Actions of Households' Online Shopping Influence Factors and Cash-free Payment." <i>In International Comference on Tourism,Economy and Environmental Sustainability (TEES2021).</i>
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/e3s.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 
-<h1>Working Paper</h1>
+<h1>Working Papers</h1>
 
 [1]<u>Jingwen Tan</u>, Shixi Kang "The impacts of China's hukou system on the social integration of migrant populations: A discussion based on a new instrumental variable." <i>under review.</i>
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/IV.pdf" "newtab" >}}[pdf]{{< /staticref >}}
@@ -91,7 +91,7 @@ Ruobing Qin, <u>Jingwen Tan</u>* "Mediating Effects Under Actions of Household
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/1/part 1.dta" "newtab" >}}[data]{{< /staticref >}}
 
 
-<h1>Award</h1>
+<h1>Awards</h1>
 
 
 * 8th China Collegiate Statistical Modeling Contest, Provincial First Prize, 2022
