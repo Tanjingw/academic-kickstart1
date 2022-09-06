@@ -62,7 +62,7 @@ CV: {{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV.pdf" "newt
 Shixi Kang, <u>Jingwen Tan</u> "Can Education Motivate Individual Health Demands? Dynamic Pseudo-panel Evidence from China's Immigration." <i>In BMC Public Health</i>, Forthcoming.
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/HE.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 
-<h1>2021</h1>
+<b>2021</b>
 
 <u>Jingwen Tan</u>, Shixi Kang, Yang Qu "Platform Incentives and Willingness of Participant for Investment on Livestreaming E-commerce Model——Computer-aided simulated analysis based on evolutionary game." <i>In International Conference on Computer Information Science and Artificial Intelligence (CISAI2021)</i>
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/cisai.pdf" "newtab" >}}[pdf]{{< /staticref >}}
