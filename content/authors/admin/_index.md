@@ -76,13 +76,13 @@ Ruobing Qin, <u>Jingwen Tan</u>* "Mediating Effects Under Actions of Household
 [1]<u>Jingwen Tan</u>, Shixi Kang "The impacts of China's hukou system on the social integration of migrant populations: A discussion based on a new instrumental variable." under review.
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/IV.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 
-[2]Shixi Kang*, <u>Jingwen Tan</u>, Aolong Liu (2021) "Navigation of the Three Gorges and Urban Economic Development——Research based on DMSP/OLS satellite lighting data." <i>(This article was presented at the China Economics Annual Conference 2021)</i>
+[2]Shixi Kang*, <u>Jingwen Tan</u>, Aolong Liu "Navigation of the Three Gorges and Urban Economic Development——Research based on DMSP/OLS satellite lighting data." <i>(This article was presented at the China Economics Annual Conference 2021)</i>
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/CEA.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 
-[3]<u>Jingwen Tan</u>, Shixi Kang (Sep. 2021) "Urban Housing Prices and Floating Population's Willingness to Fertility——Empirical analysis based on China Migrants Dynamic Survey 2018."</b> under review.
+[3]<u>Jingwen Tan</u>, Shixi Kang "Urban Housing Prices and Floating Population's Willingness to Fertility——Empirical analysis based on China Migrants Dynamic Survey 2018."</b> under review.
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/wp2.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 
-[4]<u>Jingwen Tan</u>, Shixi Kang (May 2021) "Housing Property Rights and Social Integration of Migrant Population: Based on the 2017 China Migrants' Dynamic Survey" under review.
+[4]<u>Jingwen Tan</u>, Shixi Kang "Housing Property Rights and Social Integration of Migrant Population: Based on the 2017 China Migrants' Dynamic Survey" under review.
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/1/wp01.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/1/code.do" "newtab" >}}[code]{{< /staticref >}}
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/1/part 1.dta" "newtab" >}}[data]{{< /staticref >}}
