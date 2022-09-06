@@ -17,12 +17,11 @@ organizations:
 bio: My research interests include Micrometric, Machine Learning and Causal Inference
 
 # Interests to show in About widget
-Awards:
-- First Prize in 2022 China National Collegiate Statistical Modeling Contest
-- Third Prize in 2022 China National Collegiate Statistical Modeling Contest
-- Third Prize in 2022 China National Collegiate Statistical Modeling Contest
-- Champion in 2019 Tax Policy Debate Contest of Henan Province
-
+  courses:
+  - course: Postgraduate in Economics
+    institution: University of Copenhagen
+  - course: Bachelor of Economics
+    institution: Henan University
 
 # Education to show in About widget
 Education:
@@ -59,59 +58,49 @@ I am studying in the University of Copenhagen, research interests include <b>Pol
 CV: {{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 
 
+<h1>Publacation</h1>
 
-<h1>Publacation & Current Reasearch</h1>
+<u>2022</u>
 
-[1]<u>Jingwen Tan</u>, Shixi Kang (Sep. 2021) <b>"Urban Housing Prices and Floating Population's Willingness to Fertility——Empirical analysis based on China Migrants Dynamic Survey 2018"</b> under review.
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/wp2.pdf" "newtab" >}}[pdf]{{< /staticref >}}
+Shixi Kang, <u>Jingwen Tan</u> <b>"Can Education Motivate Individual Health Demands? Dynamic Pseudo-panel Evidence from China's Immigration"</b> BMC Public Health, Forthcoming.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/HE.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 
-[2]<u>Jingwen Tan</u>, Shixi Kang <b>"Finding the instrumental variables of household registration. A Concurrent Discussion of the Impact of China's Household Registration System on the Citizenship of the Migrant Population."</b> under review.
+<u>2021</u>
+
+<u>Jingwen Tan</u>*, Shixi Kang,Yang Qu (2021) <b>Platform Incentives and Willingness of Participant for Investment on Livestreaming E-commerce Model——Computer-aided simulated analysis based on evolutionary game.</b> In <i>"International Conference on Computer Information Science and Artificial Intelligence (CISAI2021)"</i>
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/cisai.pdf" "newtab" >}}[pdf]{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/EG.zip" "newtab" >}}[code]{{< /staticref >}}
+
+Ruobing Qin, <u>Jingwen Tan</u>* (2021) <b>Study on Mediating Effects Under Actions of Households' Online Shopping Influence Factors and Cash-free Payment.</b> In<i>"International Comference on Tourism,Economy and Environmental Sustainability (TEES2021)"</i>
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/e3s.pdf" "newtab" >}}[pdf]{{< /staticref >}}
+
+<h1>Working Paper</h1>
+
+[1]<u>Jingwen Tan</u>, Shixi Kang <b>"The impacts of China's hukou system on the social integration of migrant populations: A discussion based on a new instrumental variable."</b> under review.
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/IV.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 
-[3]Shixi Kang*, <u>Jingwen Tan</u>, Aolong Liu (2021) <b>"Navigation of the Three Gorges and Urban Economic Development——Research based on DMSP/OLS satellite lighting data."</b> In <i>China Economics Annual Conference (CEA 2021)</i>
+[2]Shixi Kang*, <u>Jingwen Tan</u>, Aolong Liu (2021) <b>"Navigation of the Three Gorges and Urban Economic Development——Research based on DMSP/OLS satellite lighting data."</b> In <i>China Economics Annual Conference (CEA 2021)</i>
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/CEA.pdf" "newtab" >}}[pdf]{{< /staticref >}}
+
+[3]<u>Jingwen Tan</u>, Shixi Kang (Sep. 2021) <b>"Urban Housing Prices and Floating Population's Willingness to Fertility——Empirical analysis based on China Migrants Dynamic Survey 2018"</b> under review.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/wp2.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 
 [4]<u>Jingwen Tan</u>, Shixi Kang (May 2021) <b>"Housing Property Rights and Social Integration of Migrant Population: Based on the 2017 China Migrants' Dynamic Survey"</b> under review.
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/1/wp01.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/1/code.do" "newtab" >}}[code]{{< /staticref >}}
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/1/part 1.dta" "newtab" >}}[data]{{< /staticref >}}
 
-[5]Shixi Kang, <u>Jingwen Tan</u> <b>"Can Education Motivate Individual Health Demands? Dynamic Pseudo-panel Evidence from China's Immigration"</b> under review.
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/HE.pdf" "newtab" >}}[pdf]{{< /staticref >}}
-
-[6]<b>"Infrastructure Development and Labor Supply: Evidence from the Three Gorges Navigable Quasi-Natural Experiment and RDD in China"</b> working in progress
- 
-[7]<b>"Household registration system reform and labour supply in China: Evidence from a quasi-natural experiment"</b> working in progress
-
-
-<h1>Conference Papers</h1>
-
-[1]<u>Jingwen Tan</u>*, Shixi Kang,Yang Qu (2021) <b>Platform Incentives and Willingness of Participant for Investment on Livestreaming E-commerce Model——Computer-aided simulated analysis based on evolutionary game.</b> In <i>"International Conference on Computer Information Science and Artificial Intelligence (CISAI2021)"</i>
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/cisai.pdf" "newtab" >}}[pdf]{{< /staticref >}}
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/EG.zip" "newtab" >}}[code]{{< /staticref >}}
-
-[2]Ruobing Qin, <u>Jingwen Tan</u>* (2021) <b>Study on Mediating Effects Under Actions of Households' Online Shopping Influence Factors and Cash-free Payment.</b> In<i>"International Comference on Tourism,Economy and Environmental Sustainability (TEES2021)"</i>
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/e3s.pdf" "newtab" >}}[pdf]{{< /staticref >}}
-
-[3]<u>Jingwen Tan</u> (2020) <b>Empirical analysis on market prospect of video platform’s Premature Video-on-Demand(PVOD).</b> In <i>"International Conference on Economic and Business Management (FEBM2020)"</i>
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/febm.pdf" "newtab" >}}[pdf]{{< /staticref >}}
-
-
-
 
 <h1>Award</h1>
 
 
-* 8th China National Collegiate Statistical Modeling Contest, First Prize in Henan province, 2022
+* 8th China Collegiate Statistical Modeling Contest, Provincial First Prize, 2022
 
 
-* 7th China National Collegiate Statistical Modeling Contest, Third Prize, 2021
+* 7th China Collegiate Statistical Modeling Contest, National Third Prize, 2021
 
 
-* 6th China National Collegiate Statistical Modeling Contest, Third Prize, 2019
-
-
-* China National Collegiate Science and Technology Sharing Service Innovation Contest, Third Prize, 2020
+* 6th China Collegiate Statistical Modeling Contest, National Third Prize, 2019
 
 
 * Tax Policy Debate Contest of Henan Province, Champion, 2019
