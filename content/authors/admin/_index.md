@@ -17,11 +17,8 @@ organizations:
 bio: My research interests include Micrometric, Machine Learning and Causal Inference
 
 # Interests to show in About widget
-  courses:
-  - course: Postgraduate in Economics
-    institution: University of Copenhagen
-  - course: Bachelor of Economics
-    institution: Henan University
+Interests:
+
 
 # Education to show in About widget
 Education:
