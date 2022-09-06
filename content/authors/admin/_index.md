@@ -59,30 +59,30 @@ CV: {{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV.pdf" "newt
 
 <b>2022</b>
 
-Shixi Kang, <u>Jingwen Tan</u> "Can Education Motivate Individual Health Demands? Dynamic Pseudo-panel Evidence from China's Immigration." <i>In BMC Public Health</i>, Forthcoming.
+Shixi Kang, <u>Jingwen Tan</u> "Can Education Motivate Individual Health Demands? Dynamic Pseudo-panel Evidence from China's Immigration." <i>In BMC Public Health, Forthcoming.</i>
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/HE.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 
 <b>2021</b>
 
-<u>Jingwen Tan</u>, Shixi Kang, Yang Qu "Platform Incentives and Willingness of Participant for Investment on Livestreaming E-commerce Model——Computer-aided simulated analysis based on evolutionary game." <i>In International Conference on Computer Information Science and Artificial Intelligence (CISAI2021)</i>
+<u>Jingwen Tan</u>, Shixi Kang, Yang Qu "Platform Incentives and Willingness of Participant for Investment on Livestreaming E-commerce Model——Computer-aided simulated analysis based on evolutionary game." <i>In International Conference on Computer Information Science and Artificial Intelligence (CISAI2021).</i>
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/cisai.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/EG.zip" "newtab" >}}[code]{{< /staticref >}}
 
-Ruobing Qin, <u>Jingwen Tan</u>* "Mediating Effects Under Actions of Households' Online Shopping Influence Factors and Cash-free Payment." <i>In International Comference on Tourism,Economy and Environmental Sustainability (TEES2021)</i>
+Ruobing Qin, <u>Jingwen Tan</u>* "Mediating Effects Under Actions of Households' Online Shopping Influence Factors and Cash-free Payment." <i>In International Comference on Tourism,Economy and Environmental Sustainability (TEES2021).</i>
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/e3s.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 
 <h1>Working Paper</h1>
 
-[1]<u>Jingwen Tan</u>, Shixi Kang "The impacts of China's hukou system on the social integration of migrant populations: A discussion based on a new instrumental variable." under review.
+[1]<u>Jingwen Tan</u>, Shixi Kang "The impacts of China's hukou system on the social integration of migrant populations: A discussion based on a new instrumental variable." <i>under review.</i>
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/IV.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 
-[2]Shixi Kang*, <u>Jingwen Tan</u>, Aolong Liu "Navigation of the Three Gorges and Urban Economic Development——Research based on DMSP/OLS satellite lighting data." <i>(This article was presented at the China Economics Annual Conference 2021)</i>
+[2]Shixi Kang*, <u>Jingwen Tan</u>, Aolong Liu "Navigation of the Three Gorges and Urban Economic Development——Research based on DMSP/OLS satellite lighting data." <i>(This article was presented at the China Economics Annual Conference 2021).</i>
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/CEA.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 
-[3]<u>Jingwen Tan</u>, Shixi Kang "Urban Housing Prices and Floating Population's Willingness to Fertility——Empirical analysis based on China Migrants Dynamic Survey 2018."</b> under review.
+[3]<u>Jingwen Tan</u>, Shixi Kang "Urban Housing Prices and Floating Population's Willingness to Fertility——Empirical analysis based on China Migrants Dynamic Survey 2018." <i>under review.</i>
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/wp2.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 
-[4]<u>Jingwen Tan</u>, Shixi Kang "Housing Property Rights and Social Integration of Migrant Population: Based on the 2017 China Migrants' Dynamic Survey" under review.
+[4]<u>Jingwen Tan</u>, Shixi Kang "Housing Property Rights and Social Integration of Migrant Population: Based on the 2017 China Migrants' Dynamic Survey" <i>under review.</i>
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/1/wp01.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/1/code.do" "newtab" >}}[code]{{< /staticref >}}
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/1/part 1.dta" "newtab" >}}[data]{{< /staticref >}}
