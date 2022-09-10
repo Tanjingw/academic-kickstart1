@@ -66,7 +66,7 @@ Shixi Kang, <u>Jingwen Tan</u> "Can Education Motivate Individual Health Demands
 
 <b>2021</b>
 
-<u>Jingwen Tan</u>, Shixi Kang, Yang Qu "Platform Incentives and Willingness of Participant for Investment on Livestreaming E-commerce Model——Computer-aided simulated analysis based on evolutionary game." <i>In International Conference on Computer Information Science and Artificial Intelligence (CISAI2021).</i>
+<u>Jingwen Tan</u>, Shixi Kang, Yang Qu "Platform Incentives and Willingness of Participant for Investment on Livestreaming E-commerce Model——Computer-aided simulated analysis based on evolutionary game." <i>In IEEE, International Conference on Computer Information Science and Artificial Intelligence (CISAI2021).</i>
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/cisai.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/EG.zip" "newtab" >}}[code]{{< /staticref >}}
 
