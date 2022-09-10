@@ -11,7 +11,7 @@ role:  Department of Economics
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Copenhagen
-  url: 
+  url: https://www.ku.dk/english/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Micrometric, Machine Learning and Causal Inference
