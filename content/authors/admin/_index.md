@@ -53,7 +53,7 @@ social:
 highlight_name: false
 ---
 
-I am studying in the University of Copenhagen, research interests include <b>Policy Evaluation</b> and <b>Causal Inference</b>, often use <b>Machine Learning</b>, <b>Spatial Econometrics</b>, <b>Instrumental Variables</b> and other methods for empirical analysis. At this stage, the main research is on the economic issues related to the social integration of China's migrant population and infrastructure construction.       <b>CV:</b> {{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV.pdf" "newtab" >}}[pdf]{{< /staticref >}}
+I am a graduate student in the University of Copenhagen, research interests include Development Economics and Labour Economics. At this stage, my main research is on the economic issues related to the social integration of China's migrant population and infrastructure construction.       <b>CV:</b> {{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 
 <h1>Publications</h1>
 
