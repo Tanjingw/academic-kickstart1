@@ -79,7 +79,7 @@ Shixi Kang, <u>Jingwen Tan</u> "Can Education Motivate Individual Health Demands
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/CEA.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 
 [3]<u>Jingwen Tan</u>, Shixi Kang "Urban Housing Prices and Floating Population's Willingness to Fertility——Empirical analysis based on China Migrants Dynamic Survey 2018." <i>under review.</i>
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/wp2.pdf" "newtab" >}}[pdf]{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/Fertility.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 
 [4]<u>Jingwen Tan</u>, Shixi Kang "Housing Property Rights and Social Integration of Migrant Population: Based on the 2017 China Migrants' Dynamic Survey" <i>under review.</i>
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/1/wp01.pdf" "newtab" >}}[pdf]{{< /staticref >}}
