@@ -53,20 +53,19 @@ social:
 highlight_name: false
 ---
 
-I am a graduate student in the University of Copenhagen, research interests include Development Economics and Labour Economics. At this stage, my main research is on the economic issues related to the social integration of China's migrant population and infrastructure construction.       <b>CV:</b> {{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV.pdf" "newtab" >}}[pdf]{{< /staticref >}}
+I am a graduate student in the University of Copenhagen, research interests include Development Economics and Labour Economics.       <b>CV:</b> {{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 
 <h1>Publications</h1>
 
 
 
-<b>2022</b>
 
-Shixi Kang, <u>Jingwen Tan</u> "Can Education Motivate Individual Health Demands? Dynamic Pseudo-panel Evidence from China's Immigration." <i>In BMC Public Health, Forthcoming.</i>
+
+[1]Shixi Kang, <u>Jingwen Tan</u> "Can Education Motivate Individual Health Demands? Dynamic Pseudo-panel Evidence from China's Immigration." <i>In BMC Public Health, Forthcoming.</i>
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/HE.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 
-<b>2021</b>
 
-<u>Jingwen Tan</u>, Shixi Kang, Yang Qu "Platform Incentives and Willingness of Participant for Investment on Livestreaming E-commerce Model——Computer-aided simulated analysis based on evolutionary game." <i>In IEEE, International Conference on Computer Information Science and Artificial Intelligence (CISAI2021).</i>
+[2]<u>Jingwen Tan</u>, Shixi Kang, Yang Qu "Platform Incentives and Willingness of Participant for Investment on Livestreaming E-commerce Model——Computer-aided simulated analysis based on evolutionary game." <i>In IEEE, International Conference on Computer Information Science and Artificial Intelligence (CISAI2021).</i>
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/cisai.pdf" "newtab" >}}[pdf]{{< /staticref >}}
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/EG.zip" "newtab" >}}[code]{{< /staticref >}}
 
@@ -86,18 +85,4 @@ Shixi Kang, <u>Jingwen Tan</u> "Can Education Motivate Individual Health Demands
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/1/code.do" "newtab" >}}[code]{{< /staticref >}}
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/1/part 1.dta" "newtab" >}}[data]{{< /staticref >}}
 
-
-<h1>Awards</h1>
-
-
-* 8th China Collegiate Statistical Modeling Contest, Provincial First Prize, 2022
-
-
-* 7th China Collegiate Statistical Modeling Contest, National Third Prize, 2021
-
-
-* 6th China Collegiate Statistical Modeling Contest, National Third Prize, 2019
-
-
-* Tax Policy Debate Contest of Henan Province, Champion, 2019
 
